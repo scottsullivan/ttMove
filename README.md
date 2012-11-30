@@ -6,7 +6,7 @@ How to make it work:
    * <a href="http://www.makershed.com/MakerShield_p/msms01.htm">Makershield (with mini breadboard)</a>
    * <a href="http://www.parallax.com/tabid/768/productid/83/default.aspx">Parallax PIR Sensor (rev B)</a>
 
-### Connections
+### Connections on the Arduino
    * GND (on sensor) to GND (on shield)<br>
    * VCC (on sensor) to 5V (on shield)<br>
    * OUT (on sensor) to Digital pin 2 (on shield)

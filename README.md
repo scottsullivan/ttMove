@@ -1,6 +1,9 @@
 How to make it work:
 ======
-    
+
+### What it looks like (when it works)
+<a href="https://vimeo.com/54501076">https://vimeo.com/54501076</a>
+
 ### Hardware that I used
    * <a href="https://www.sparkfun.com/products/11021?">Arduino Uno R3</a>
    * <a href="http://www.makershed.com/MakerShield_p/msms01.htm">Makershield (with mini breadboard)</a>

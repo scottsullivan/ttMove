@@ -29,7 +29,8 @@ Run
     ttMove/ttMove.pde
 
 It'll take a few seconds for the sensor to warm up, but it should be working fine!
-<a href="http://imgur.com/9vbLe"><img src="http://i.imgur.com/9vbLe.png" alt="" title="Hosted by imgur.com" /></a>
+
+<a href="http://imgur.com/4JoSI"><img src="http://i.imgur.com/4JoSI.png" alt="" title="Hosted by imgur.com" /></a>
 
 ### Problems I ran in to
 Right now, Processing 2.0 is in beta, and not a stable build. To get this to work I had to use Processing v1.5.1 (the last stable build)
